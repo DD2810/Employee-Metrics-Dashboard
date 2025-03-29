@@ -1,0 +1,10 @@
+Meeting minutes on Sep 26
+
+- Need permission from client -> access to Jane database
+- Maintenance issue -> UiPath (free or premium) if no IT in SpringBoard. Selenium if otherwise -> need confirm with client 
+- If the client doesn't give permission, use tool that can schedule data extraction, transformation
+- No API in Jane
+- Any suggestion for client to  have better planning (?) -> any limitation of Jane? -> example: demand hour or room (peak hour but not enough doctor, room)? Student discount? New hour threshold of bonus for therapist? -> optimization of appointment etc. -> if there is, must do it on Jane
+- Ask client the % of no-show (book appointment but didn't show up) -> overbooking? similar to airline cases
+
+--> THINK OUTSIDE OF THE BOX, NOT JUST WHAT CLIENT TOLD US. They might not know what they want, we can sell more

@@ -1,0 +1,29 @@
+Meeting minutes on Sep 13
+
+- Dataset in XML format
+- Decline client's request: data conversion to new system -> not possible
+--------------------------------------
+- 2 paths for project:
+
+1. Performance evaluation (beginning of each year will have plan for each doctor: how many hours will be allocated to each doctor -> input manually. At the end of the year, evaluate the performance of each doctor based on their hours) --> What is the solution? Challenge: early of November the data will be ready since it's on the new system
+
+2. Estimate lifetime value of single child: based on parent's occupations, address, etc. The clinic -> when the data ready? --> by following Albert's paper?
+
+Path 2 might affects path 1 result
+---------------------------------------
+Clarify with client on Wed:
+1. User requirement: what do they want? what is their targets?
+
+2. When can they send us the data?
+---------------------------------------
+After Wed (Sep 18)
+
+1. Prepare 1-2 pages proposal: introduction, motivation, background research, target, TIMELINE (due date, tentative periodic phases, tentative deliverable results: findings, dashboard,...) --> maybe after Wed since we don't have much info
+
+2. Pay attention to Data quality (expect many abstract values, not exact numerical data) -> assess its important (drop or not)
+
+3. Daily meeting will start after having the proposal
+
+4. Literature review: each person must find 1 paper but 2 people must read 1 same paper -> summarize and inform the rest of the team
+
+Note: Correlation in sociology/psychology: >0.3 means highly correlated -> different from the technical perspective

@@ -1,0 +1,48 @@
+Meeting Minutes Sep 27
+With Albert
+
+- Dashboard -> the end of project or not? -> data collection + data management, aka decision support system -> 2 fundamental premises:
+
+1. Management by objective (dashboard, sales)
+2. Performance based compensation -> need actual event -> measurements will decided by the company
+
+Capture, manage, integrate real data -> allow changes in the system (ppl quit, adjust KPI, ) -> decentralized system (company has diff locations)
+
+Compensation MUST BE calculated accurately!!! 
+
+This project = consulting. Need to learn quickly the client's culture, processing data
+
+Limit of Excel (current practice)
+- Automatic extraction, maintenance, real-time calculation, etc.
+
+What kind of data they need to extract, how to validate accuracy of report, time period to extract data?
+
+Extract data from the system Jane -> store in the database -> extract data monthly, report by getting monthly data performance vs plan by category, revenue,...
+
+- Secure, protected and usable over time, user-friendly interface. MUST BE transparent as well.
+- Open sourced, robust, free database software -> Apache Pinot, PostgreSQL, Superset Apache...
+- Strategic imperative -> hierarchical format
+- Extracted data must 
+- DigitalFile company works w SpringBoard for Desktop support, no internal IT team
+- Healthcheck
+- The plan: the intention of the company or what they want to see in the report, questions, group's incentive or individual's incentive
+
+- Bi-weekly meeting with client
+
+- Vincent suggests Excel to make Dashboard or Django (python language) since they're free
+- Vincent breaks down to 3 tasks: Extract data -> how to keep the data -> how to transform the data into dashboard
+- Might need a lot of issues when launch so need to finish asap
+
+------------------------------------------
+Below is from Albert email:
+
+The development of a system to enter and edit plan data over time, i..e, multiple year. It is not just an Excel worksheet
+The development of a system to extract and summarize actual data from the production system to capture actual data
+A data integration module and dashboard to integrate the actual versus plan data
+ 
+All of these cannot be done through an Excel worksheet. I suggest that the students spend some time thinking through this problem and put together a concept paper as a starting point. This paper should include a system chart etc. Once the paper is put together, we can get the client to review it and agree to it before the actual development.
+
+
+This project also include the choice of the appropriate technology for data capture, capture management, reporting, and visualization.
+
+Let me know if you have further questions. I can meet with the students next Thursday or Friday if necessary.

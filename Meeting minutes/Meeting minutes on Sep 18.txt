@@ -1,0 +1,36 @@
+Meeting minutes in Sep 18
+
+Name: SpringBoards Clinic
+ADHD clinic in Toronto
+15 years from 2009
+Treatment and diagnosis: psychotherapy coaching, functional coaching
+Pediatrics, psychologist, psychotherapist
+1h client session, 30min note taking --> 4 1h session/day, 20 clients/week FT, multiply by number of days PT
+Dashboard to recruit, performance management, miscellaneous, etc. --> color coded --> orange/red with get a hearing from HR and manager
+Moving to EMR in Oct --> automate the dashboard --> counts number of hour, pull actual revenue, etc. manually
+physician who hits >18 as threshold -> 20% of the clinic incentive amount
+
+Sensitive PHI in the data -> DI identify from clinic 
+
+XML format -> Excel format because XML outsourced to 
+
+
+Objective: transform the data for automation to extract hour and revenue, color coded as well, 
+
+Client: send the dummy data to langara, 
+
+Students: make a proposal, timeline
+
+Meeting bi-weekly
+
+Make agenda before every meeting with client starting from now on
+
+Start with this small project first then  
+
+
+
+
+
+
+
+
