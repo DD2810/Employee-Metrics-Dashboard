@@ -12,7 +12,7 @@ This project addresses key challenges such as:
 
 📊 Enhancing data visualization and analysis for better decision-making
 
-<img width="880" alt="Screenshot 2025-03-29 at 01 38 13" src="https://github.com/user-attachments/assets/8f68692c-7f01-4c41-8244-32fbe170530e" />
+<img width="856" alt="Screenshot 2025-03-29 at 01 39 35" src="https://github.com/user-attachments/assets/27a33514-d40a-48fb-9ea7-6e46066fcfc3" />
 
 ---
 
